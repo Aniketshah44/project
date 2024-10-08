@@ -44,7 +44,7 @@ print(friendlist)               # pop - removes data using index no.
  #friendlist.sort()
 #print the list data
 
-placelist =["Shimla","Dehradun","Chandigarh","Haryana","noida"]
+placelist =["Shimla","Dehradun","Chandigarh","Delhi","noida"]
 placelist.insert(0,"kasol")
 placelist.pop(4)
 placelist.sort()
